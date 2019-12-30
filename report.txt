@@ -1,0 +1,85 @@
+Info: Backing up file “C:\Users\sroth\Desktop\Retro\Curent production\xt-ide 4.1\xt_ide-12-3-19\sym-lib-table” to file “C:\Users\sroth\Desktop\Retro\Curent production\xt-ide 4.1\xt_ide-12-3-19\rescue-backup\sym-lib-table-2019-12-29-19-57-05”.
+Info: Backing up file “C:\Users\sroth\Desktop\Retro\Curent production\xt-ide 4.1\xt_ide-12-3-19\XT-IDE.sch” to file “C:\Users\sroth\Desktop\Retro\Curent production\xt-ide 4.1\xt_ide-12-3-19\rescue-backup\XT-IDE-2019-12-29-19-57-05.sch”.
+Info: Backing up file “C:\Users\sroth\Desktop\Retro\Curent production\xt-ide 4.1\xt_ide-12-3-19\XT-IDE.pro” to file “C:\Users\sroth\Desktop\Retro\Curent production\xt-ide 4.1\xt_ide-12-3-19\rescue-backup\XT-IDE-2019-12-29-19-57-05.pro”.
+Info: Backing up file “C:\Users\sroth\Desktop\Retro\Curent production\xt-ide 4.1\xt_ide-12-3-19\XT-IDE-cache.lib” to file “C:\Users\sroth\Desktop\Retro\Curent production\xt-ide 4.1\xt_ide-12-3-19\rescue-backup\XT-IDE-cache-2019-12-29-19-57-05.lib”.
+Info: Backing up file “C:\Users\sroth\Desktop\Retro\Curent production\xt-ide 4.1\xt_ide-12-3-19\XT-IDE-rescue.lib” to file “C:\Users\sroth\Desktop\Retro\Curent production\xt-ide 4.1\xt_ide-12-3-19\rescue-backup\XT-IDE-rescue-2019-12-29-19-57-05.lib”.
+Info: Backing up file “C:\Users\sroth\Desktop\Retro\Curent production\xt-ide 4.1\xt_ide-12-3-19\XT-IDE-rescue.dcm” to file “C:\Users\sroth\Desktop\Retro\Curent production\xt-ide 4.1\xt_ide-12-3-19\rescue-backup\XT-IDE-rescue-2019-12-29-19-57-05.dcm”.
+Info: Adding library “XT-IDE-rescue”, file “${KIPRJMOD}/XT-IDE-rescue.lib” to project symbol library table.
+Symbol “74LS32” mapped to symbol library “74xx”.
+Warning: No symbol “CONN_3” found in symbol library table.
+Warning: No symbol “CONN_3” found in symbol library table.
+Symbol “28C256-RESCUE-XT-IDE” mapped to symbol library “XT-IDE-rescue”.
+Warning: No symbol “CONN_2” found in symbol library table.
+Symbol “74LS04” mapped to symbol library “74xx”.
+Warning: No symbol “CONN_1” found in symbol library table.
+Warning: No symbol “CONN_1” found in symbol library table.
+Warning: No symbol “BUSPC” found in symbol library table.
+Warning: No symbol “CONN_5X2” found in symbol library table.
+Warning: No symbol “RR9” found in symbol library table.
+Warning: No symbol “RR9” found in symbol library table.
+Symbol “74LS688” mapped to symbol library “74xx”.
+Symbol “C” mapped to symbol library “Device”.
+Symbol “C” mapped to symbol library “Device”.
+Symbol “C” mapped to symbol library “Device”.
+Symbol “C” mapped to symbol library “Device”.
+Symbol “C” mapped to symbol library “Device”.
+Symbol “C” mapped to symbol library “Device”.
+Symbol “C” mapped to symbol library “Device”.
+Symbol “C” mapped to symbol library “Device”.
+Symbol “C” mapped to symbol library “Device”.
+Symbol “C” mapped to symbol library “Device”.
+Symbol “74LS04” mapped to symbol library “74xx”.
+Symbol “74LS32” mapped to symbol library “74xx”.
+Symbol “74LS04” mapped to symbol library “74xx”.
+Symbol “74LS04” mapped to symbol library “74xx”.
+Symbol “74LS138” mapped to symbol library “74xx”.
+Symbol “74LS32” mapped to symbol library “74xx”.
+Symbol “74LS04” mapped to symbol library “74xx”.
+Symbol “74LS32” mapped to symbol library “74xx”.
+Symbol “74LS688” mapped to symbol library “74xx”.
+Symbol “74LS04” mapped to symbol library “74xx”.
+Symbol “74LS573” mapped to symbol library “74xx”.
+Symbol “74LS573” mapped to symbol library “74xx”.
+Warning: No symbol “CONN_20X2” found in symbol library table.
+Symbol “GND-RESCUE-XT-IDE” mapped to symbol library “XT-IDE-rescue”.
+Symbol “VCC” mapped to symbol library “power”.
+Symbol “VCC” mapped to symbol library “power”.
+Symbol “VCC” mapped to symbol library “power”.
+Symbol “GND-RESCUE-XT-IDE” mapped to symbol library “XT-IDE-rescue”.
+Symbol “GND-RESCUE-XT-IDE” mapped to symbol library “XT-IDE-rescue”.
+Symbol “CP” mapped to symbol library “Device”.
+Symbol “R” mapped to symbol library “Device”.
+Symbol “74LS245” mapped to symbol library “74xx”.
+Symbol “GND-RESCUE-XT-IDE” mapped to symbol library “XT-IDE-rescue”.
+Symbol “VCC” mapped to symbol library “power”.
+Symbol “VCC” mapped to symbol library “power”.
+Symbol “R” mapped to symbol library “Device”.
+Symbol “R” mapped to symbol library “Device”.
+Symbol “GND-RESCUE-XT-IDE” mapped to symbol library “XT-IDE-rescue”.
+Symbol “VCC” mapped to symbol library “power”.
+Warning: No symbol “DIPS_08” found in symbol library table.
+Warning: No symbol “DIPS_08” found in symbol library table.
+Symbol “GND-RESCUE-XT-IDE” mapped to symbol library “XT-IDE-rescue”.
+Symbol “VCC” mapped to symbol library “power”.
+Symbol “GND-RESCUE-XT-IDE” mapped to symbol library “XT-IDE-rescue”.
+Symbol “74LS245” mapped to symbol library “74xx”.
+Symbol “GND-RESCUE-XT-IDE” mapped to symbol library “XT-IDE-rescue”.
+Symbol “VCC” mapped to symbol library “power”.
+Symbol “GND-RESCUE-XT-IDE” mapped to symbol library “XT-IDE-rescue”.
+Warning: No symbol “CONN_2” found in symbol library table.
+Symbol “R” mapped to symbol library “Device”.
+Symbol “GND-RESCUE-XT-IDE” mapped to symbol library “XT-IDE-rescue”.
+Symbol “GND-RESCUE-XT-IDE” mapped to symbol library “XT-IDE-rescue”.
+Symbol “LED-RESCUE-XT-IDE” mapped to symbol library “XT-IDE-rescue”.
+Symbol “VCC” mapped to symbol library “power”.
+Warning: No symbol “CONN_1” found in symbol library table.
+Warning: No symbol “CONN_1” found in symbol library table.
+Warning: No symbol “CONN_1” found in symbol library table.
+Symbol “74LS04” mapped to symbol library “74xx”.
+Symbol “74LS04” mapped to symbol library “74xx”.
+Symbol “74LS04” mapped to symbol library “74xx”.
+Symbol “74LS04” mapped to symbol library “74xx”.
+Symbol “74LS04” mapped to symbol library “74xx”.
+Symbol “74LS04” mapped to symbol library “74xx”.
+Symbol “C” mapped to symbol library “Device”.
+Info: Symbol library table mapping complete!
